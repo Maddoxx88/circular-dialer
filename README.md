@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-A Circular Phone Dialer made using Flutter.
+A Circular Dialer App made using Flutter.
 </p>
 
 <p align="center">
